@@ -11,11 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="abidnuri.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][www.abidnuri.com]
-[<img align="left" alt="abidnuri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/abidnuri/]
-[<img align="left" alt="abidnuri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ABIDNURI]
-[<img align="left" alt="abidnuri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/abidnuri/]
-
 <br />
 
 ### Languages and Tools:
