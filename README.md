@@ -5,7 +5,7 @@
 - 🔭 I just launched my first portfolio: [Abid Nuri][www.abidnuri.com]
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with Programming Hero Web Development with Jhankar Mahbub
-- 🥅 2021 Goals: TypeScript, Next.js, Vue
+- 🥅 2023 Goals: TypeScript, Next.js, Vue
 - ⚡ Fun fact: I love to play with technologies
 
 
